@@ -1,0 +1,6 @@
+{
+  "name": "OrganizaAí - Protótipo de Organização Escolar",
+  "description": "Protótipo interativo e completo do aplicativo OrganizaAí para organização da rotina escolar, tarefas, matérias, agenda e lembretes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
